@@ -42,8 +42,3 @@ function invokeAction({ action, id, name, email, phone }) {
 }
 
 invokeAction(argv);
-
-// console.log(listContacts());
-// console.log(getContactById());
-// console.log(removeContact());
-// console.log(addContact());
